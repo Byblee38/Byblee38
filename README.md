@@ -24,7 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Byblee38&icon=1&color=1)](https://visitcount.itsvg.in)
 
-![]<img src="https://raw.githubusercontent.com/Byblee38/Byblee38/output/snake.svg" alt="Snake animation" />
+![] 
+<img src="https://raw.githubusercontent.com/Byblee38/Byblee38/output/snake.svg" alt="Snake animation" />
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
