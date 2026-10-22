@@ -4,8 +4,6 @@
 
 <h1 data-importer="text" align="center">Im Bayu Kresna Mukti</h1>
 
-###
-
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
